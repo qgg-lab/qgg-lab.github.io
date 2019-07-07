@@ -1,0 +1,52 @@
+<ul id="topnav" class="nav">   
+ 
+  {% if page.active == "home" %}
+  <li><a class = "active" href="{{ site.baseurl }}/index.html">home</a></li>
+  {% else %}
+  <li><a href="{{ site.baseurl }}/index.html">home</a></li>
+  {% endif %}
+  
+  {% if page.active == "people" %}
+  <li><a class="active" href="{{ site.baseurl }}/people.html">people</a></li>
+  {% else %}
+  <li><a href="{{ site.baseurl }}/people.html">people</a></li>
+  {% endif %}
+
+  {% if page.active == "research" %}
+  <li><a class="active" href="{{ site.baseurl }}/research.html">research</a></li>
+  {% else %}
+  <li><a href="{{ site.baseurl }}/research.html">research</a></li>
+  {% endif %}
+  
+  {% if page.active == "teaching" %}
+  <li><a class="active" href="{{ site.baseurl }}/teaching.html">teaching</a></li>
+  {% else %}
+  <li><a href="{{ site.baseurl }}/teaching.html">teaching</a></li>
+  {% endif %}
+  
+  {% if page.active == "publications" %}
+  <li><a class="active" href="{{ site.baseurl }}/publications.html">papers</a></li>
+  {% else %}
+  <li><a href="{{ site.baseurl }}/publications.html">papers</a></li>
+  {% endif %}
+  
+</ul>
+
+<ul id="corner" class="logo">
+  <li><a href="{{ site.baseurl }}/index.html">Huang Lab@MSU</a></li>
+</ul>
+
+<ul id="corner" class="icon">
+  <li class="icon"><a href="javascript:void(0);" onclick="navicon()"><i class="fa fa-clone" aria-hidden="true"></i></a></li>
+</ul>
+
+<script>
+function navicon() {
+    var x = document.getElementById("topnav");
+    if (x.className === "nav") {
+        x.className += " responsive";        
+    } else {
+        x.className = "nav";
+    }
+}
+</script>
