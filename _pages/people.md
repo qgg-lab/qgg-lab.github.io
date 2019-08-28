@@ -51,6 +51,21 @@ Life is fantastic, but also complicated. It is of importance and interest to und
 
 -----
 
+#### Fei Zhang (张飞)
+Gratuate Student, 2019 -
+
+<img src="files/feizhang.jpg" style="width: 20%; max-width: 200px; min-width: 120px; display: block; margin-right: 20px;" >
+
+| | | |
+|-|-|-|
+|<small>research assistant</small> | <small>2017-2019</small> | <small>South University of Science and Technology, China</small> |
+|<small>bioinformatics technician</small> | <small>2016-2017</small> | <small>Novogene Co. Ltd, China</small>
+|<small> M.S. (biochemistry) </small> | <small>2015</small> | <small>Dalian Medical University, China</small>
+
+I am interested in biological questions such as how is a specific phenotype determined by genetic and epigenetic information. I am trying to employ NGS data analysis to find some clues. 
+
+-----
+
 #### Jinding Liu (刘金定)
 Visiting Scholar, 2019 -
 
@@ -74,9 +89,9 @@ Visiting Student, 2018 -
 
 | | | |
 |-|-|-|
-|<small>Ph.D. (genetics)</small> | <small>In progress</small> | <small>South China Agricultural University, China</small> |
-|<small>M.S. (animal genetics and breeding)</small> | <small>2014</small> | <small>South China Agricultural University, China</small> |
-|<small>B.S. (animal biotechnology)</small> | <small>2011</small> | <small>South China Agricultural University, China</small> |
+|<small>Ph.D. student </small> | <small>2017-</small> | <small>South China Agricultural University, China</small> |
+|<small>M.S. (animal genetics and breeding)</small> | <small>2017</small> | <small>South China Agricultural University, China</small> |
+|<small>B.S. (animal biotechnology)</small> | <small>2014</small> | <small>South China Agricultural University, China</small> |
 
 My main research direction is the use of biostatistics and bioinformatics tools to identify functional genes of important economic traits (e.g. feeding behavior and feed efficiency traits ) in pigs.
 
@@ -89,9 +104,8 @@ Visiting Student, 2019 -
 
 | | | |
 |-|-|-|
-|<small>Ph.D. (genetics)</small> | <small>In progress</small> | <small>South China Agricultural University, China</small> |
-|<small>M.S. (animal genetics and breeding)</small> | <small>2015</small> | <small>South China Agricultural University, China</small> |
-|<small>B.S. (animal biotechnology)</small> | <small>2011</small> | <small>South China Agricultural University, China</small> |
+|<small>gratuate student</small> | <small>2015-</small> | <small>South China Agricultural University, China</small> |
+|<small>B.S. (animal biotechnology)</small> | <small>2015</small> | <small>South China Agricultural University, China</small> |
 
 Pigs play an important role in agricultural production. I used to work on improving pig production ability (e.g. make pig grow faster, have higher feed efficiency) through biostatistics and bioinformatics tools. Currently, I focus on using multiple omics to research the pig crossing problem. 
 
