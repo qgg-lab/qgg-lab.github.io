@@ -9,7 +9,7 @@ active: people
 #### Wen Huang (黄温)
 Assistant Professor, 2017 - 
 
-<img src="files/WenHuangHeadShot.jpg" style="width: 20%; max-width: 200px; min-width: 120px; display: block; margin-right: 20px;" >
+<img src="files/WenHuang2019.jpg" style="width: 20%; max-width: 200px; min-width: 120px; display: block; margin-right: 20px;" >
 
 | | | |
 |-|-|-|
@@ -44,7 +44,7 @@ Postdoctoral Scholar, 2019 -
 | | | |
 |-|-|-|
 |<small>Ph.D. (fisheries, aquaculture and aquatic science)</small> | <small>2018</small> | <small>Auburn University</small> |
-|<small>M.S. student (aquaculture)</small> | <small>2014</small> | <small>Ocean University of China</small> |
+|<small>M.S. Student (aquaculture)</small> | <small>2014</small> | <small>Ocean University of China</small> |
 |<small>B.S. (aquaculture)</small> | <small>2013</small> | <small>China Agricultural University</small> |
 
 Life is fantastic, but also complicated. It is of importance and interest to understand the molecular mechanisms underlying complex traits, and breed animals with great performance and production traits. My primary research interest is using genetics, genomics, and bioinformatics to deal with problems in animal science.
@@ -58,8 +58,8 @@ Gratuate Student, 2019 -
 
 | | | |
 |-|-|-|
-|<small>research assistant</small> | <small>2017-2019</small> | <small>South University of Science and Technology, China</small> |
-|<small>bioinformatics technician</small> | <small>2016-2017</small> | <small>Novogene Co. Ltd, China</small>
+|<small>Research Assistant</small> | <small>2017-2019</small> | <small>South University of Science and Technology, China</small> |
+|<small>Bioinformatics Scientist</small> | <small>2016-2017</small> | <small>Novogene Co. Ltd, China</small>
 |<small> M.S. (biochemistry) </small> | <small>2015</small> | <small>Dalian Medical University, China</small>
 
 I am interested in biological questions such as how is a specific phenotype determined by genetic and epigenetic information. I am trying to employ NGS data analysis to find some clues. 
@@ -80,12 +80,12 @@ Visiting Scholar, 2019 -
 
 My research interests are high-throughput omics data analysis, development of bioinformatics tools and construction of bioinformatics database. Now my research focuses on alternative splicing in livestock.
 
------
+<!-- -----
 
 #### Rongrong Ding (丁荣荣)
 Visiting Student, 2018 -
 
-<img src="files/DingRongRong.jpg" style="width: 20%; max-width: 200px; min-width: 120px; display: block; margin-right: 20px;" >
+<img src="files/DingRongRong.jpg" style="border-radius: 50%; width: 20%; max-width: 200px; min-width: 120px; display: block; margin-right: 20px;" >
 
 | | | |
 |-|-|-|
@@ -94,6 +94,7 @@ Visiting Student, 2018 -
 |<small>B.S. (animal biotechnology)</small> | <small>2014</small> | <small>South China Agricultural University, China</small> |
 
 My main research direction is the use of biostatistics and bioinformatics tools to identify functional genes of important economic traits (e.g. feeding behavior and feed efficiency traits ) in pigs.
+-->
 
 -----
 
@@ -104,7 +105,7 @@ Visiting Student, 2019 -
 
 | | | |
 |-|-|-|
-|<small>gratuate student</small> | <small>2015-</small> | <small>South China Agricultural University, China</small> |
+|<small>Gratuate Student</small> | <small>2015-</small> | <small>South China Agricultural University, China</small> |
 |<small>B.S. (animal biotechnology)</small> | <small>2015</small> | <small>South China Agricultural University, China</small> |
 
 Pigs play an important role in agricultural production. I used to work on improving pig production ability (e.g. make pig grow faster, have higher feed efficiency) through biostatistics and bioinformatics tools. Currently, I focus on using multiple omics to research the pig crossing problem. 
@@ -126,6 +127,9 @@ I am seeking my bachelor's degree in Animal Science at Michigan State University
 
 | Name | Role | Tenure | Present |
 |-|-|-|-|
-| Zhijun Dai | Postdoctoral Scholar | 2017-2018 | Lecturer, Hunan Agricultural University, China |
 | Jie Yang | Vistiting Scholar | 2017-2018 | Associate Professor, South China Agricultural University, China |
+| Zhijun Dai | Postdoctoral Scholar | 2017-2018 | Lecturer, Hunan Agricultural University, China |
 | Michelle Ratchford | Undergraduate Student | 2018-2018 | |
+| Tim Cook | Undergraduate Student | 2019-2019 | |
+| Rongrong Ding | Visiting Student | 2018-2019 | Ph.D. Student, South China Agricultural University, China |
+
