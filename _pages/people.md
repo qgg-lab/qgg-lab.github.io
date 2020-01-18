@@ -9,7 +9,7 @@ active: people
 #### Wen Huang (黄温)
 Assistant Professor, 2017 - 
 
-<img src="files/WenHuang2019.jpg" style="width: 20%; max-width: 200px; min-width: 120px; display: block; margin-right: 20px;" >
+<img src="files/WenHuang2019.jpg" style="border-radius: 20pt; width: 20%; max-width: 200px; min-width: 120px; display: block; margin-right: 20px;" >
 
 | | | |
 |-|-|-|
@@ -25,7 +25,7 @@ Assistant Professor, 2017 -
 #### Nancy Raney
 Lab Manager, 2017 -
 
-<img src="files/NancyRaney.jpg" style="width: 20%; max-width: 200px; min-width: 120px; display: block; margin-right: 20px;" >
+<img src="files/NancyRaney.jpg" style="border-radius: 20pt; width: 20%; max-width: 200px; min-width: 120px; display: block; margin-right: 20px;" >
 
 | | | |
 |-|-|-|
@@ -39,7 +39,7 @@ I have been a lab manager at MSU since 1997. In addition to the Huang Lab, I am 
 #### Suxu Tan (谭苏旭)
 Postdoctoral Scholar, 2019 -
 
-<img src="files/SuxuTan.jpg" style="width: 20%; max-width: 200px; min-width: 120px; display: block; margin-right: 20px;" >
+<img src="files/SuxuTan.jpg" style="border-radius: 20pt; width: 20%; max-width: 200px; min-width: 120px; display: block; margin-right: 20px;" >
 
 | | | |
 |-|-|-|
@@ -54,7 +54,7 @@ Life is fantastic, but also complicated. It is of importance and interest to und
 #### Fei Zhang (张飞)
 Gratuate Student, 2019 -
 
-<img src="files/feizhang.jpg" style="width: 20%; max-width: 200px; min-width: 120px; display: block; margin-right: 20px;" >
+<img src="files/feizhang.jpg" style="border-radius: 20pt; width: 20%; max-width: 200px; min-width: 120px; display: block; margin-right: 20px;" >
 
 | | | |
 |-|-|-|
@@ -69,7 +69,7 @@ I am interested in biological questions such as how is a specific phenotype dete
 #### Jinding Liu (刘金定)
 Visiting Scholar, 2019 -
 
-<img src="files/ljd.jpg" style="width: 20%; max-width: 200px; min-width: 120px; display: block; margin-right: 20px;" >
+<img src="files/ljd.jpg" style="border-radius: 20pt; width: 20%; max-width: 200px; min-width: 120px; display: block; margin-right: 20px;" >
 
 | | | |
 |-|-|-|
@@ -101,7 +101,7 @@ My main research direction is the use of biostatistics and bioinformatics tools 
 #### Jianping Quan (全建平)
 Visiting Student, 2019 -
 
-<img src="files/quan.jpg" style="width: 20%; max-width: 200px; min-width: 120px; display: block; margin-right: 20px;" >
+<img src="files/quan.jpg" style="border-radius: 20pt; width: 20%; max-width: 200px; min-width: 120px; display: block; margin-right: 20px;" >
 
 | | | |
 |-|-|-|
@@ -115,7 +115,7 @@ Pigs play an important role in agricultural production. I used to work on improv
 #### Danyue Kang (亢丹月)
 Undergraduate Student, 2018 -
 
-<img src="files/KangDanyue.jpeg" style="width: 20%; max-width: 200px; min-width: 120px; display: block; margin-right: 20px;" >
+<img src="files/KangDanyue.jpeg" style="border-radius: 20pt; width: 20%; max-width: 200px; min-width: 120px; display: block; margin-right: 20px;" >
 
 | | | |
 |-|-|-|
