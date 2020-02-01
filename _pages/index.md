@@ -30,9 +30,9 @@ We are a lab of quantitative genetics and genomics, primarily in livestock anima
 
 ### recent papers (<a href="{{ site.baseurl }}/publications.html">all papers</a>)
 
+- <a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-6472-9" target="blank">BMC Genomics, 2020</a>: ASlive: a database for alternative splicing atlas in livestock animals
 - <a href="https://www.g3journal.org/content/10/1/109" target="blank">G3, 2020</a>: Influence of genetic interactions on polygenic prediction
 - <a href="http://onlinelibrary.wiley.com/doi/10.1002/wdev.289/abstract;jsessionid=6F725723A288BD00731A427C18A25DD5.f04t04" target="blank">WIREs Developmental Biology, 2018</a>: Charting the genotype–phenotype map: lessons from the <i>Drosophila melanogaster</i> Genetic Reference Panel
-- <a href="http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006421" target="_blank">PLoS Genetics, 2016</a>: The genetic architecture of quantitative traits cannot be inferred from variance component analysis.
 
 ### contact information
 <i class="fa fa-envelope" aria-hidden="true"></i> huangw53 AT msu.edu  

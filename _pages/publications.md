@@ -9,7 +9,8 @@ active: publications
 
 | | | |
 |--|--:|--|
-| <b>2020</b>| 47. | Matute DR, Comeault AA, Earley E, Serrato-Capuchina A, Peede D, Monroy-Eklund A, <b>Huang W</b>, Jones CD, Mackay TFC, Coyne JA (2020) Rapid and predictable evolution of admixed populations between two Drosophila species pairs. <a href="https://www.ncbi.nlm.nih.gov/pubmed/31767631" target="blank"><i>Genetics</i>214:211-230 </a> |
+| <b>2020</b> | 48. | <b>Liu J</b>, <b>Tan S</b>, Huang S, <b>Huang W</b> (2020) ASlive: a database for alternative splicing atlas in livestock animals. <a href="https://www.ncbi.nlm.nih.gov/pubmed/32000661" target="blank"><i>BMC Genomics</i> 21(1):97 </a> |
+| | 47. | Matute DR, Comeault AA, Earley E, Serrato-Capuchina A, Peede D, Monroy-Eklund A, <b>Huang W</b>, Jones CD, Mackay TFC, Coyne JA (2020) Rapid and predictable evolution of admixed populations between two Drosophila species pairs. <a href="https://www.ncbi.nlm.nih.gov/pubmed/31767631" target="blank"><i>Genetics</i>214:211-230 </a> |
 | | 46. | <b>Dai Z</b>, Long N, <b>Huang W</b> (2020) Influence of genetic interactions on polygenic prediction. <a href="https://www.ncbi.nlm.nih.gov/pubmed/31649046" target="blank"><i>G3</i> 10(1):109-115</a> |
 | <b>2019</b>| 45. | Ding R, Yang M, Quan J, Li S, Zhuang Z, Zhou S, Zheng E, Hong L, Li Z, Cai G,<b>Huang W</b>, Wu Z, Yang J (2019) Single-locus and multi-locus genome-wide association studies for intramuscular fat in Duroc pigs. <a href="https://www.ncbi.nlm.nih.gov/pubmed/31316554" target="blank"><i>Front Genet</i> 10:619</a> |
 | | 44. | Veturi Y, de Los Campos G, Yi N, <b>Huang W</b>, Vazquez AI, Kühnel B (2019) Modeling heterogeneity in the genetic architecture of ethnically diverse groups using random effect interaction models. <a href="https://www.ncbi.nlm.nih.gov/pubmed/30796011" target="blank"><i>Genetics</i> 211(4)1395-1407</a> |
