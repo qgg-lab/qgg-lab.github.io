@@ -17,7 +17,7 @@ permalink: /index.html
 
 We are a lab of quantitative genetics and genomics, primarily in the model organism <i>Drosophila melanogaster</i> and livestock animals. We seek to understand why some cows produce more milk than others, or why some people are more prone to certain diseases than others, and questions of that nature. By doing that, we hope to be able to understand the biological processes underlying complex quantitative trait variation and eventually breed better animals. We tackle these questions using a variety of approaches, including genetics, genomics, statistics, and bioinformatics.
 
-###  news (<a href="{{ site.baseurl }}/news.html">all news</a>)
+###  news | <a href="{{ site.baseurl }}/news.html">all news</a>
 
 <ul>
   {% for news in site.categories.news limit:3 %}
@@ -28,7 +28,7 @@ We are a lab of quantitative genetics and genomics, primarily in the model organ
 </ul>
 
 
-### recent papers (<a href="{{ site.baseurl }}/publications.html">all papers</a>)
+### recent papers | <a href="{{ site.baseurl }}/publications.html">all papers</a>
 
 - <a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-6472-9" target="blank">BMC Genomics, 2020</a>: ASlive: a database for alternative splicing atlas in livestock animals
 - <a href="https://www.g3journal.org/content/10/1/109" target="blank">G3, 2020</a>: Influence of genetic interactions on polygenic prediction
