@@ -34,6 +34,12 @@ We are a lab of quantitative genetics and genomics, primarily in the model organ
 - <a href="https://www.g3journal.org/content/10/1/109" target="blank">G3, 2020</a>: Influence of genetic interactions on polygenic prediction
 - <a href="http://onlinelibrary.wiley.com/doi/10.1002/wdev.289/abstract;jsessionid=6F725723A288BD00731A427C18A25DD5.f04t04" target="blank">WIREs Developmental Biology, 2018</a>: Charting the genotype–phenotype map: lessons from the <i>Drosophila melanogaster</i> Genetic Reference Panel
 
+### web servers
+
+- <a href="http://aslive.org" target="blank">ASlive</a>: alternative splicing in livestock animals
+- <a href="http://dgrp2.gnets.ncsu.edu" target="blank">DGRP</a>: GWAS in DGRP
+
+
 ### contact information
 <i class="fa fa-envelope" aria-hidden="true"></i> huangw53 AT msu.edu  
 <i class="fa fa-phone" aria-hidden="true"></i> (517) 353-9136  
