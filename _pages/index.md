@@ -27,7 +27,6 @@ We are a lab of quantitative genetics and genomics, primarily in the model organ
   {% endfor %}
 </ul>
 
-
 ### recent papers | <a href="{{ site.baseurl }}/publications.html">all papers</a>
 - <a href="https://doi.org/10.3389/fmicb.2020.00032" target="blank">Front Microbiol, 2020</a>: Metagenomic characterization of intestinal regions in pigs with contrasting feed efficiency
 - <a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-6472-9" target="blank">BMC Genomics, 2020</a>: ASlive: a database for alternative splicing atlas in livestock animals
@@ -38,7 +37,6 @@ We are a lab of quantitative genetics and genomics, primarily in the model organ
 
 - <a href="http://aslive.org" target="blank">ASlive</a>: alternative splicing in livestock animals
 - <a href="http://dgrp2.gnets.ncsu.edu" target="blank">DGRP</a>: GWAS in DGRP
-
 
 ### contact information
 <i class="fa fa-envelope" aria-hidden="true"></i> huangw53 AT msu.edu  
