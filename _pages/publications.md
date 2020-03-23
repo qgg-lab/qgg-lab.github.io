@@ -9,7 +9,9 @@ active: publications
 
 | | | |
 |--|--:|--|
-| <b>2020</b> | 49. | <b>Quan J</b>, Wu Z, Ye Y, Peng L, Wu J, Ruan D, Qiu Y, Ding R, Wang X, Zheng E, Cai G, <b>Huang W</b>, Yang J (2020) Metagenomic characterization of intestinal regions in pigs with contrasting feed efficiency. <a href="https://www.ncbi.nlm.nih.gov/pubmed/32038603" target="blank"><i>Front Microbiol</i> 11:32 </a> |
+| <b>2020</b> | 51. | <b>Huang W</b>=, Campbell T=, Carbone MA, Jones WE, Unselt D, Anholt RRH, Mackay TFC (2020) Context-dependent genetic architecture of Drosophila life span. <a href="https://www.ncbi.nlm.nih.gov/pubmed/32134916" target="blank"><i>PLoS Biol</i> 18(3):e3000645</a> =equal contribution |
+| | 50. | Parker GA, Kohn N, Spirina A, McMillen A, <b>Huang W</b>, Mackay TFC (2020) Genetic basis of increased lifespan and postponed senescence in <i>Drosophila melanogaster</i> <a href="https://www.ncbi.nlm.nih.gov/pubmed/31969430" target="blank"><i>G3<i> 10(3):1087-1098 </a> |
+| | 49. | <b>Quan J</b>, Wu Z, Ye Y, Peng L, Wu J, Ruan D, Qiu Y, Ding R, Wang X, Zheng E, Cai G, <b>Huang W</b>, Yang J (2020) Metagenomic characterization of intestinal regions in pigs with contrasting feed efficiency. <a href="https://www.ncbi.nlm.nih.gov/pubmed/32038603" target="blank"><i>Front Microbiol</i> 11:32 </a> |
 | | 48. | <b>Liu J</b>, <b>Tan S</b>, Huang S, <b>Huang W</b> (2020) ASlive: a database for alternative splicing atlas in livestock animals. <a href="https://www.ncbi.nlm.nih.gov/pubmed/32000661" target="blank"><i>BMC Genomics</i> 21(1):97 </a> |
 | | 47. | Matute DR, Comeault AA, Earley E, Serrato-Capuchina A, Peede D, Monroy-Eklund A, <b>Huang W</b>, Jones CD, Mackay TFC, Coyne JA (2020) Rapid and predictable evolution of admixed populations between two Drosophila species pairs. <a href="https://www.ncbi.nlm.nih.gov/pubmed/31767631" target="blank"><i>Genetics</i> 214:211-230 </a> |
 | | 46. | <b>Dai Z</b>, Long N, <b>Huang W</b> (2020) Influence of genetic interactions on polygenic prediction. <a href="https://www.ncbi.nlm.nih.gov/pubmed/31649046" target="blank"><i>G3</i> 10(1):109-115</a> |
