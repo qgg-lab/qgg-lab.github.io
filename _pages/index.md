@@ -29,6 +29,7 @@ We are a lab of quantitative genetics and genomics, primarily in the model organ
 
 ### recent papers | <a href="{{ site.baseurl }}/publications.html">all papers</a>
 - <a href="https://genome.cshlp.org/content/early/2020/03/18/gr.257592.119.abstract" target="blank">Genome Res, 2020</a>: Gene expression networks in the Drosophila Genetic Reference Panel
+- <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000645" target="blank">PLOS Biol, 2020</a>: Context-dependent genetic architecture of Drosophila life span
 - <a href="https://doi.org/10.3389/fmicb.2020.00032" target="blank">Front Microbiol, 2020</a>: Metagenomic characterization of intestinal regions in pigs with contrasting feed efficiency
 - <a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-6472-9" target="blank">BMC Genomics, 2020</a>: ASlive: a database for alternative splicing atlas in livestock animals
 - <a href="https://www.g3journal.org/content/10/1/109" target="blank">G3, 2020</a>: Influence of genetic interactions on polygenic prediction
