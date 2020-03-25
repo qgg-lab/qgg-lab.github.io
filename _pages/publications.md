@@ -9,7 +9,7 @@ active: publications
 
 | | | |
 |--|--:|--|
-| <b>2020</b> | 52. | Everett LJ=, <b>Huang W</b>=, Zhou S, Carbone MA, Lyman RF, Arya GH, Geisz MS, Ma J, Morgante F,  St. Armour G, Turlapati L, Anholt RRH, Mackay TFC (2020) Gene expression networks in the Drosophila Genetic Reference Panel. <a href="https://www.ncbi.nlm.nih.gov/pubmed/32144088" target="blank"><i>Genome Res</i> 30:485-496</a> =equal contribution \\
+| <b>2020</b> | 52. | Everett LJ=, <b>Huang W</b>=, Zhou S, Carbone MA, Lyman RF, Arya GH, Geisz MS, Ma J, Morgante F,  St. Armour G, Turlapati L, Anholt RRH, Mackay TFC (2020) Gene expression networks in the Drosophila Genetic Reference Panel. <a href="https://www.ncbi.nlm.nih.gov/pubmed/32144088" target="blank"><i>Genome Res</i> 30:485-496</a> =equal contribution
 | | 51. | <b>Huang W</b>=, Campbell T=, Carbone MA, Jones WE, Unselt D, Anholt RRH, Mackay TFC (2020) Context-dependent genetic architecture of Drosophila life span. <a href="https://www.ncbi.nlm.nih.gov/pubmed/32134916" target="blank"><i>PLoS Biol</i> 18(3):e3000645</a> =equal contribution |
 | | 50. | Parker GA, Kohn N, Spirina A, McMillen A, <b>Huang W</b>, Mackay TFC (2020) Genetic basis of increased lifespan and postponed senescence in <i>Drosophila melanogaster</i> <a href="https://www.ncbi.nlm.nih.gov/pubmed/31969430" target="blank"><i>G3</i> 10(3):1087-1098 </a> |
 | | 49. | <b>Quan J</b>, Wu Z, Ye Y, Peng L, Wu J, Ruan D, Qiu Y, Ding R, Wang X, Zheng E, Cai G, <b>Huang W</b>, Yang J (2020) Metagenomic characterization of intestinal regions in pigs with contrasting feed efficiency. <a href="https://www.ncbi.nlm.nih.gov/pubmed/32038603" target="blank"><i>Front Microbiol</i> 11:32 </a> |
