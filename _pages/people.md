@@ -127,7 +127,7 @@ I am seeking my bachelor's degree in Animal Science at Michigan State University
 
 | Name | Role | Tenure | Present |
 |-|-|-|-|
-| Eric Chen | Okemos High School Student | 2018 - 2019 | |
+| Eric Chen | Okemos High School Student | 2018-2019 | |
 | Tim Cook | Undergraduate Student | 2019-2019 | |
 | Rongrong Ding | Visiting Student | 2018-2019 | Ph.D. Student, South China Agricultural University, China |
 | Michelle Ratchford | Undergraduate Student | 2018-2018 | |
