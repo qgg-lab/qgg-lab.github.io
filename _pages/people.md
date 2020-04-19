@@ -127,9 +127,9 @@ I am seeking my bachelor's degree in Animal Science at Michigan State University
 
 | Name | Role | Tenure | Present |
 |-|-|-|-|
-| Jie Yang | Vistiting Scholar | 2017-2018 | Associate Professor, South China Agricultural University, China |
-| Zhijun Dai | Postdoctoral Scholar | 2017-2018 | Lecturer, Hunan Agricultural University, China |
-| Michelle Ratchford | Undergraduate Student | 2018-2018 | |
+| Eric Chen | Okemos High School Student | 2018 - 2019 | |
 | Tim Cook | Undergraduate Student | 2019-2019 | |
 | Rongrong Ding | Visiting Student | 2018-2019 | Ph.D. Student, South China Agricultural University, China |
-
+| Michelle Ratchford | Undergraduate Student | 2018-2018 | |
+| Zhijun Dai | Postdoctoral Scholar | 2017-2018 | Lecturer, Hunan Agricultural University, China |
+| Jie Yang | Vistiting Scholar | 2017-2018 | Associate Professor, South China Agricultural University, China |
