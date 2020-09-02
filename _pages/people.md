@@ -80,56 +80,17 @@ Visiting Scholar, 2019 -
 
 My research interests are high-throughput omics data analysis, development of bioinformatics tools and construction of bioinformatics database. Now my research focuses on alternative splicing in livestock.
 
-<!-- -----
-
-#### Rongrong Ding (丁荣荣)
-Visiting Student, 2018 -
-
-<img src="files/DingRongRong.jpg" style="border-radius: 50%; width: 20%; max-width: 200px; min-width: 120px; display: block; margin-right: 20px;" >
-
-| | | |
-|-|-|-|
-|<small>Ph.D. student </small> | <small>2017-</small> | <small>South China Agricultural University, China</small> |
-|<small>M.S. (animal genetics and breeding)</small> | <small>2017</small> | <small>South China Agricultural University, China</small> |
-|<small>B.S. (animal biotechnology)</small> | <small>2014</small> | <small>South China Agricultural University, China</small> |
-
-My main research direction is the use of biostatistics and bioinformatics tools to identify functional genes of important economic traits (e.g. feeding behavior and feed efficiency traits ) in pigs.
--->
-
 -----
-
-#### Jianping Quan (全建平)
-Visiting Student, 2019 -
-
-<img src="files/quan.jpg" style="border-radius: 20pt; width: 20%; max-width: 200px; min-width: 120px; display: block; margin-right: 20px;" >
-
-| | | |
-|-|-|-|
-|<small>Gratuate Student</small> | <small>2015-</small> | <small>South China Agricultural University, China</small> |
-|<small>B.S. (animal biotechnology)</small> | <small>2015</small> | <small>South China Agricultural University, China</small> |
-
-Pigs play an important role in agricultural production. I used to work on improving pig production ability (e.g. make pig grow faster, have higher feed efficiency) through biostatistics and bioinformatics tools. Currently, I focus on using multiple omics to research the pig crossing problem. 
-
------
-
-#### Danyue Kang (亢丹月)
-Undergraduate Student, 2018 -
-
-<img src="files/KangDanyue.jpeg" style="border-radius: 20pt; width: 20%; max-width: 200px; min-width: 120px; display: block; margin-right: 20px;" >
-
-| | | |
-|-|-|-|
-|<small>B.S. (animal science)</small> | <small>Expected 2020</small> | <small>Michigan State University</small> |
-
-I am seeking my bachelor's degree in Animal Science at Michigan State University. I have lots of livestock and veterinary experience around the world. Currently, working with large animals and focusing on genetic research.
 
 ## Alumni
 
 | Name | Role | Tenure | Present |
 |----|----|----|----|
+| Jianping Quan | Visting Student | 2019-2020 | |
+| Danyue Kang | Undergraduate Student | 2018-202 | VetMed Student, Ohio State University |
 | Eric Chen | Okemos High School Student | 2018-2019 | |
 | Tim Cook | Undergraduate Student | 2019-2019 | |
-| Rongrong Ding | Visiting Student | 2018-2019 | Ph.D. Student, South China Agricultural University, China |
+| Rongrong Ding | Visiting Student | 2018-2019 | Postdoc, South China Agricultural University, China |
 | Michelle Ratchford | Undergraduate Student | 2018-2018 | |
 | Zhijun Dai | Postdoctoral Scholar | 2017-2018 | Lecturer, Hunan Agricultural University, China |
 | Jie Yang | Vistiting Scholar | 2017-2018 | Associate Professor, South China Agricultural University, China |
