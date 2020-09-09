@@ -87,7 +87,7 @@ My research interests are high-throughput omics data analysis, development of bi
 | Name | Role | Tenure | Present |
 |----|----|----|----|
 | Jianping Quan | Visting Student | 2019-2020 | |
-| Danyue Kang | Undergraduate Student | 2018-202 | VetMed Student, Ohio State University |
+| Danyue Kang | Undergraduate Student | 2018-2020 | VetMed Student, Ohio State University |
 | Eric Chen | Okemos High School Student | 2018-2019 | |
 | Tim Cook | Undergraduate Student | 2019-2019 | |
 | Rongrong Ding | Visiting Student | 2018-2019 | Postdoc, South China Agricultural University, China |
