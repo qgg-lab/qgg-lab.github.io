@@ -86,11 +86,11 @@ My research interests are high-throughput omics data analysis, development of bi
 
 | Name | Role | Tenure | Present |
 |----|----|----|----|
-| Jianping Quan | Visting Student | 2019-2020 | |
+| Jianping Quan | Visiting Student | 2019-2020 | |
 | Danyue Kang | Undergraduate Student | 2018-2020 | VetMed Student, Ohio State University |
 | Eric Chen | Okemos High School Student | 2018-2019 | |
 | Tim Cook | Undergraduate Student | 2019-2019 | |
 | Rongrong Ding | Visiting Student | 2018-2019 | Postdoc, South China Agricultural University, China |
 | Michelle Ratchford | Undergraduate Student | 2018-2018 | |
 | Zhijun Dai | Postdoctoral Scholar | 2017-2018 | Lecturer, Hunan Agricultural University, China |
-| Jie Yang | Vistiting Scholar | 2017-2018 | Associate Professor, South China Agricultural University, China |
+| Jie Yang | Visiting Scholar | 2017-2018 | Associate Professor, South China Agricultural University, China |
