@@ -9,7 +9,8 @@ active: publications
 
 | | | |
 |--|--:|--|
-| <b>2020</b> | 55. | Chen W, Zhang Z, Chang C, Yang Z, Wang P, Fu H, Wei X, <b>Chen E</b>, <b>Tan S</b>, <b>Huang W</b>, Sun L, Ni T, Yang Y, Wang Y (2020) A bioenergetic shift is required fro spermatogonial differentiation. <a href="https://pubmed.ncbi.nlm.nih.gov/32864161" target="blank"><i>Cell Discov</i> 6:56</a> |
+| <b>2020</b> | 56. | <b>Huang W</b>, Carbone MA, Lyman RF, Anholt RRH, Mackay TFC (2020) Genotype by environment interaction for gene expression in <i>Drosophila melanogaster</i>. <a href="https://pubmed.ncbi.nlm.nih.gov/33116142" target="blank"><i>Nat Commun</i> 11(1):5451 </a>|
+| | 55. | Chen W, Zhang Z, Chang C, Yang Z, Wang P, Fu H, Wei X, <b>Chen E</b>, <b>Tan S</b>, <b>Huang W</b>, Sun L, Ni T, Yang Y, Wang Y (2020) A bioenergetic shift is required fro spermatogonial differentiation. <a href="https://pubmed.ncbi.nlm.nih.gov/32864161" target="blank"><i>Cell Discov</i> 6:56</a> |
 | | 54. | Yanagawa A, <b>Huang W</b>, Yamamoto A, Wada-Katsumata A, Schal C, Mackay TFC (2020) Genetic basis of natural variation in spontaneous grooming in <i>Drosophila melanogaster</i>. <a href="https://pubmed.ncbi.nlm.nih.gov/32727922" target="blank"><i>G3</i> 10(9): 3453-3460</a> |
 | | 53. | Zhuang Z, Ding R, Peng L, Wu J, Ye Y, Zhou S, Wang X, Quan J, Zheng E, Cai G, <b>Huang W</b>, Yang J, Wu Z (2020) Genome-wide association analyses identify known and novel loci for teat number in Duroc pigs using single-locus and multi-locus models. <a href="https://pubmed.ncbi.nlm.nih.gov/32380955" target="blank"><i>BMC Genomics</i> 21(1):344 </a> |
 | | 52. | Everett LJ=, <b>Huang W</b>=, Zhou S, Carbone MA, Lyman RF, Arya GH, Geisz MS, Ma J, Morgante F,  St. Armour G, Turlapati L, Anholt RRH, Mackay TFC (2020) Gene expression networks in the Drosophila Genetic Reference Panel. <a href="https://pubmed.ncbi.nlm.nih.gov/32144088" target="blank"><i>Genome Res</i> 30:485-496</a> =equal contribution |
