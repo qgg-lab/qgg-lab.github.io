@@ -7,7 +7,7 @@ active: research
 
 ## research
 
-Research in our lab combines 1) field and laboratory experiments using livestock animals such as dairy cattle, and tractable model organisms such as fruit flies; 2) state-of-the-art high throughput genomic technologies such as next generation sequencing that are capable of generating massive amount of data; and 3) advanced theoretical, statistical and computational methods to make inferences from large-scale experimental and genomic data. The long-term goals of our research are to understand how quantitative trait variation, particularly the part that is heritable and actionable, is generated, maintained, and dynamically changed. Answering these questions not only is important for understanding evolution and biological processes, but also holds practical promises in agriculture and medicine.
+Research in our lab combines 1) farm and laboratory experiments using livestock animals such as dairy cattle, and tractable model organisms such as fruit flies; 2) state-of-the-art high throughput genomic technologies such as next generation sequencing that are capable of generating massive amount of data; and 3) advanced theoretical, statistical and computational methods to make inferences from large-scale experimental and genomic data. The long-term goals of our research are to understand how quantitative trait variation, particularly the part that is heritable and actionable, is generated, maintained, and dynamically changed. Answering these questions not only is important for understanding evolution and biological processes, but also holds practical promises in agriculture and medicine.
       
 <img src="files/k5176-3.jpg" style="height: 150px;">
 <img src="files/Drosophila_melanogaster.jpg" style="height: 150px;"> 
