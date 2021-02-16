@@ -19,7 +19,7 @@ Assistant Professor, 2017 -
 |<small>M.S.  (biochemistry)</small>  | <small>2007</small> | <small>Case Western Reserve University</small> |
 |<small>B.S.  (biology)</small>       | <small>2005</small> | <small>USTC, China (中国科大)</small> |
 
-<small><a href="http://scholar.google.com/citations?user=-scaSE0AAAAJ&hl=en" target="_blank">Google Scholar</a></small>
+<small><a href="https://scholar.google.com/citations?user=-scaSE0AAAAJ&hl=en" target="_blank">Google Scholar</a></small>
 
 -----
 #### Nancy Raney
@@ -51,6 +51,23 @@ Life is fantastic, but also complicated. It is of importance and interest to und
 
 -----
 
+#### Rodrigo Pelicioni Savegnago
+Postdoctoral Scholar, 2021 -
+
+<img src="files/RodrigoPelicioniSavegnago.jpg" style="border-radius: 20pt; width: 20%; max-width: 200px; min-width: 120px; display: block; margin-right: 20px;" >
+
+| | | |
+|-|-|-|
+|<small>Ph.D. (animal breeding and genetics)</small> | <small>2013</small> | <small>Sao Paulo State University</small> |
+|<small>M.S. (animal breeding and genetics)</small> | <small>2010</small> | <small>Sao Paulo State University</small> |
+|<small>B.S. (biology)</small> | <small>2008</small> | <small>Sao Paulo State University</small> |
+
+<small><a href="https://scholar.google.com/citations?user=N4yNpMoAAAAJ&hl=en" target="_blank">Google Scholar</a></small>
+
+I have concentrated my studies in Quantitative Genetics, Computing for Statistical Genetics (specially in R software), and Mixed Models. My research interests comprise Bioinformatics, Genomic Selection, Genome-Wide Association Studies, Machine Learning, and Computer Vision. 
+
+-----
+
 #### Fei Zhang (张飞)
 Gratuate Student, 2019 -
 
@@ -64,21 +81,6 @@ Gratuate Student, 2019 -
 
 I am interested in biological questions such as how is a specific phenotype determined by genetic and epigenetic information. I am trying to employ NGS data analysis to find some clues. 
 
------
-
-#### Jinding Liu (刘金定)
-Visiting Scholar, 2019 -
-
-<img src="files/ljd.jpg" style="border-radius: 20pt; width: 20%; max-width: 200px; min-width: 120px; display: block; margin-right: 20px;" >
-
-| | | |
-|-|-|-|
-|<small>Associate Professor(computer science)</small> | <small>2014-</small> | <small>Nanjing Agricultural University, China</small> |
-|<small>Ph.D. (bioinformatics)</small> | <small>2014</small> | <small>Nanjing Agricultural University, China</small> |
-|<small>M.S. (computer science)</small> | <small>2009</small> | <small>Nanjing Agricultural University, China</small> |
-|<small>B.S. (information science)</small> | <small>2002</small> | <small>Nanjing Agricultural University, China</small> |
-
-My research interests are high-throughput omics data analysis, development of bioinformatics tools and construction of bioinformatics database. Now my research focuses on alternative splicing in livestock.
 
 -----
 
@@ -86,6 +88,7 @@ My research interests are high-throughput omics data analysis, development of bi
 
 | Name | Role | Tenure | Present |
 |----|----|----|----|
+| Jinding Liu | Visiting Scholar | 2019-2021 | Associate Professor, Nanjing Agricultural University, China |
 | Jianping Quan | Visiting Student | 2019-2020 | |
 | Danyue Kang | Undergraduate Student | 2018-2020 | VetMed Student, Ohio State University |
 | Eric Chen | Okemos High School Student | 2018-2019 | |
