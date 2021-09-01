@@ -6,9 +6,9 @@ html {
 }
 
 body {
-  font: 16px Lato, "Lucida Grande", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 16px Lato, Lato, "Lucida Grande", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: black;
-  font-weight:300;
+  font-weight: 300;
   line-height: 20px;
   text-align: left;
   max-width: 900px;
@@ -93,7 +93,7 @@ ul.nav {
 
 ul.nav li {
   display: inline-block;
-  width: calc((100% - 160px)/5.1);
+  width: calc((100% - 160px)/4.1);
 }
 
 ul.nav li a {

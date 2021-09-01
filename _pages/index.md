@@ -37,6 +37,7 @@ We are a lab of quantitative genetics and genomics, primarily in the model organ
 
 ### web servers
 
+- <a href="https://bioinfo.njau.edu.cn/metazExp/" target="blank">MetazExp</a>: metazoan expression atlas
 - <a href="http://aslive.org" target="blank">ASlive</a>: alternative splicing in livestock animals
 - <a href="http://dgrp2.gnets.ncsu.edu" target="blank">DGRP</a>: GWAS in DGRP
 
