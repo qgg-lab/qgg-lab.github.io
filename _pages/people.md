@@ -7,6 +7,7 @@ active: people
 
 ## people
 #### Wen Huang (黄温)
+
 Assistant Professor, 2017 - 
 
 <img src="files/WenHuang2019.jpg" style="border-radius: 20pt; width: 20%; max-width: 200px; min-width: 120px; display: block; margin-right: 20px;" >
@@ -96,7 +97,7 @@ I am an Animal Scientist that is passionate about the concept of “One Health�
 
 ## Alumni
 
-| Name | Role | Tenure | Present |
+| Name <img width=60/> | Role | Tenure <img width=50/> | Present |
 |----|----|----|----|
 | Jinding Liu | Visiting Scholar | 2019-2021 | Associate Professor, Nanjing Agricultural University, China |
 | Jianping Quan | Visiting Student | 2019-2020 | |

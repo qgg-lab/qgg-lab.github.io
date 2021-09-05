@@ -17,6 +17,13 @@ permalink: /index.html
 
 We are a lab of quantitative genetics and genomics, primarily in the model organism <i>Drosophila melanogaster</i> and livestock animals. We seek to understand why some cows produce more milk than others, or why some people are more prone to certain diseases than others, and questions of that nature. By doing that, we hope to be able to understand the biological processes underlying complex quantitative trait variation and eventually breed better animals and improve human health. We tackle these questions using a variety of approaches, including genetics, genomics, statistics, and bioinformatics.
 
+### recruiting now | <a href="{{ site.baseurl }}/join.html">all opportunities</a>
+
+<i class="fa fa-check-circle" aria-hidden="true" style="color:green"></i> Postdocs (see [ad]({{ site.baseurl }}/news/2021/09/01/postdoc.html)); <i class="fa fa-check-circle" aria-hidden="true"  style="color:green"></i> Graduate Students; <i class="fa fa-check-circle" aria-hidden="true"  style="color:green"></i> Undergraduate Students; 
+<!---
+ <i class="fa fa-times-circle" aria-hidden="true"  style="color:red"></i> Undergraduate Students; 
+--->
+
 ###  news | <a href="{{ site.baseurl }}/news.html">all news</a>
 
 <ul>
@@ -42,8 +49,8 @@ We are a lab of quantitative genetics and genomics, primarily in the model organ
 - <a href="http://dgrp2.gnets.ncsu.edu" target="blank">DGRP</a>: GWAS in DGRP
 
 ### contact information
-<i class="fa fa-envelope" aria-hidden="true"></i> huangw53 AT msu.edu  
-<i class="fa fa-phone" aria-hidden="true"></i> (517) 353-9136  
+<i class="fa fa-envelope" aria-hidden="true" style="color:#18453b"></i> huangw53 AT msu.edu  
+<i class="fa fa-phone" aria-hidden="true"  style="color:#18453b"></i> (517) 353-9136  
 1205F Anthony Hall    
 Michigan State University  
 East Lansing, Michigan 48824
