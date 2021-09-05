@@ -17,7 +17,7 @@ active: join
 
 #### Postdocs
 
-We are always looking for motivated postdocs who have a genuine interest in quantitative genetics. Our lab employes a combination of experimental and computational approaches and uses fruit flies, livestock animals, and data in human populations. It's likely you will find something that interests you! Get in touch with the PI (huangw53 AT msu.edu) for an informal inquiry.
+We are always looking for motivated postdocs who have a genuine interest in quantitative genetics. Our lab employs a combination of experimental and computational approaches and uses fruit flies, livestock animals, and data in human populations. It's likely you will find something that interests you! Get in touch with the PI (huangw53 AT msu.edu) for an informal inquiry.
 
 
 
