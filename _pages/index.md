@@ -19,7 +19,7 @@ We are a lab of quantitative genetics and genomics, primarily in the model organ
 
 ### recruiting now | <a href="{{ site.baseurl }}/join.html">all opportunities</a>
 
-<i class="fa fa-check-circle" aria-hidden="true" style="color:green"></i> Postdocs (see [ad]({{ site.baseurl }}/news/2021/09/01/postdoc.html)); <i class="fa fa-check-circle" aria-hidden="true"  style="color:green"></i> Graduate Students; <i class="fa fa-check-circle" aria-hidden="true"  style="color:green"></i> Undergraduate Students; 
+<i class="fa fa-check-circle" aria-hidden="true" style="color:green"></i> Postdocs (see [ad]({{ site.baseurl }}/news/2021/09/01/postdoc.html)); <i class="fa fa-check-circle" aria-hidden="true"  style="color:green"></i> Graduate Students; <i class="fa fa-check-circle" aria-hidden="true"  style="color:green"></i> Undergraduate Students
 <!---
  <i class="fa fa-times-circle" aria-hidden="true"  style="color:red"></i> Undergraduate Students; 
 --->
