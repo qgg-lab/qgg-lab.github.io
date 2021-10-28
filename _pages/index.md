@@ -35,6 +35,7 @@ We are a lab of quantitative genetics and genomics, primarily in the model organ
 </ul>
 
 ### recent papers | <a href="{{ site.baseurl }}/publications.html">all papers</a>
+- <a href="https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkab933/6413608" target="blank">MetazExp: a database for gene expression and alternative splicing profiles and their analyses based on 53 615 public RNA-seq samples in 72 metazoan species</a>, <i>Nucleic Acids Res</i>, 2021
 - <a href="https://www.nature.com/articles/s41467-020-19131-y" target="blank">Genotype by environment interaction for gene expression in <i>Drosophila melanogaster</i></a>, <i>Nat Commun</i>, 2020
 - <a href="https://genome.cshlp.org/content/early/2020/03/18/gr.257592.119.abstract" target="blank">Gene expression networks in the Drosophila Genetic Reference Panel</a>, <i>Genome Res</i>, 2020
 - <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000645" target="blank">Context-dependent genetic architecture of Drosophila life span</a>, <i>PLOS Biol</i>, 2020
