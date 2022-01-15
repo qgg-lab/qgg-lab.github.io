@@ -10,7 +10,8 @@ active: publications
 | --   | --:  | --   |
 | ---- | ---- | ---- |
 |      |      |      |
-| <b>2021</b> |  59. | Özsoy ED, Yılmaz M, Patlar B, Emecen G, Durmaz E, Magwire MM, Zhou S, <b>Huang W </b>, Anholt RRH, Mackay TFC (2021) Epistasis for head morphology in <i>Drosophila melanogaster</i>. <a href="https://pubmed.ncbi.nlm.nih.gov/34568933/" target="blank"><i>G3</i> 11(10):jakb285</a>|
+| <b>2022</b> |  60. | <b>Liu J</b>, Yin F, Lang K, Jie W, <b>Tan S</b>, Duan R, Huang S, <b>Huang W</b> (2022) MetazExp: a database for gene expression and alternative splicing profiles and their analyses based on 53615 public RNA-seq samples in 72 metazoan species. <a href="https://pubmed.ncbi.nlm.nih.gov/34718719/" target="blank"><i>Nucleic Acids Res</i> 50(D1):D1046-D1054</a>|
+| <b>2021</b> | 59. | Özsoy ED, Yılmaz M, Patlar B, Emecen G, Durmaz E, Magwire MM, Zhou S, <b>Huang W </b>, Anholt RRH, Mackay TFC (2021) Epistasis for head morphology in <i>Drosophila melanogaster</i>. <a href="https://pubmed.ncbi.nlm.nih.gov/34568933/" target="blank"><i>G3</i> 11(10):jakb285</a>|
 | | 58. | Baker BM, Carbone MA, <b>Huang W</b>, Anholt RRH, Mackay TFC (2021) Genetic basis of variation in cocaine and methamphetamine consumption in outbred populations of Drosophila melanogaster. <a href="https://pubmed.ncbi.nlm.nih.gov/34074789/" target="blank"><i>Proc Natl Acad Sci USA</i> 118(23):e2104131118 </a>|
 | <b>2020</b> | 57. | Morgante F, <b>Huang W</b>, Sørensen P, Maltecca C, Mackay TFC (2020) Leveraging multiple layers of data to predict Drosophila complex traits. <a href="https://pubmed.ncbi.nlm.nih.gov/33106232/" target="blank"><i>G3</i> 10(12):4599-4613</a> |
 | | 56. | <b>Huang W</b>, Carbone MA, Lyman RF, Anholt RRH, Mackay TFC (2020) Genotype by environment interaction for gene expression in <i>Drosophila melanogaster</i>. <a href="https://pubmed.ncbi.nlm.nih.gov/33116142" target="blank"><i>Nat Commun</i> 11(1):5451 </a>|
