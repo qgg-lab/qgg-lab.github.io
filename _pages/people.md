@@ -77,7 +77,7 @@ Postdoctoral Scholar, 2022 -
 |<small>Postgrad diploma (agriculture)</small> | <small>2016</small> | <small>Lincoln University, New Zealand</small> |
 |<small>M.S. (animal genetics)</small> | <small>2013</small> | <small>AgroParisTech, France</small> |
 |<small>M.S. (animal science)</small> | <small>2012</small> | <small>Swedish university of Agricultural Sciences, Sweden</small> |
-|<small>B.S. (animal science)</small> | <small>2015</small> | <small>Hawassa University, Ethiopia</small> |
+|<small>B.S. (animal science)</small> | <small>2005</small> | <small>Hawassa University, Ethiopia</small> |
 
 
 Broadly, I am interested in factors that control genetic variation and how these can be utilised in quantitative genetics. Particularly, I am interested in genome wide association study, genomic prediction and methods of estimating genetic parameters for performance and disease traits in various species. 
