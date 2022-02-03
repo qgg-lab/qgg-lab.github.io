@@ -37,21 +37,6 @@ I have been a lab manager at MSU since 1997. In addition to the Huang Lab, I am 
 
 -----
 
-#### Suxu Tan (谭苏旭)
-Postdoctoral Scholar, 2019 -
-
-<img src="files/SuxuTan.jpg" style="border-radius: 20pt; width: 20%; max-width: 200px; min-width: 120px; display: block; margin-right: 20px;" >
-
-| | | |
-|-|-|-|
-|<small>Ph.D. (fisheries, aquaculture and aquatic science)</small> | <small>2018</small> | <small>Auburn University</small> |
-|<small>M.S. Student (aquaculture)</small> | <small>2014</small> | <small>Ocean University of China</small> |
-|<small>B.S. (aquaculture)</small> | <small>2013</small> | <small>China Agricultural University</small> |
-
-Life is fantastic, but also complicated. It is of importance and interest to understand the molecular mechanisms underlying complex traits, and breed animals with great performance and production traits. My primary research interest is using genetics, genomics, and bioinformatics to deal with problems in animal science.
-
------
-
 #### Rodrigo Pelicioni Savegnago
 Postdoctoral Scholar, 2021 -
 
@@ -66,6 +51,36 @@ Postdoctoral Scholar, 2021 -
 <small><a href="https://scholar.google.com/citations?user=N4yNpMoAAAAJ&hl=en" target="_blank">Google Scholar</a></small>
 
 I have concentrated my studies in Quantitative Genetics, Computing for Statistical Genetics (specially in R software), and Mixed Models. My research interests comprise Bioinformatics, Genomic Selection, Genome-Wide Association Studies, Machine Learning, and Computer Vision. 
+
+-----
+#### Kangxu Wang (王康旭)
+Postdoctoral Scholar, 2022 -
+
+<img src="files/KangxuWang.jpg" style="border-radius: 20pt; width: 20%; max-width: 200px; min-width: 120px; display: block; margin-right: 20px;" >
+
+| | | |
+|-|-|-|
+|<small>Ph.D. (entomology)</small> | <small>2019</small> | <small>Nanjing Agricultural University</small> |
+|<small>B.S. (plant protection)</small> | <small>2013</small> | <small>Nanjing Agricultural University</small> |
+
+I am an entomologist, focusing on a variety of insect pests from the fruit flies to the red flour beetles. My current research project is conducting molecular biology, fly genetics, and biometrics to get some clues on fundamental aspects of the central dogma. 
+
+-----
+#### Mohammed Bedhane 
+Postdoctoral Scholar, 2022 -
+
+<img src="files/MohammedBedhane.jpg" style="border-radius: 20pt; width: 20%; max-width: 200px; min-width: 120px; display: block; margin-right: 20px;" >
+
+| | | |
+|-|-|-|
+|<small>Ph.D. (animal genomics)</small> | <small>2021</small> | <small>University of New England, Australia</small> |
+|<small>Postgrad diploma (agriculture)</small> | <small>2016</small> | <small>Lincoln University, New Zealand</small> |
+|<small>M.S. (animal genetics)</small> | <small>2013</small> | <small>AgroParisTech, France</small> |
+|<small>M.S. (animal science)</small> | <small>2012</small> | <small>Swedish university of Agricultural Sciences, Sweden</small> |
+|<small>B.S. (animal science)</small> | <small>2015</small> | <small>Hawassa University, Ethiopia</small> |
+
+
+Broadly, I am interested in factors that control genetic variation and how these can be utilised in quantitative genetics. Particularly, I am interested in genome wide association study, genomic prediction and methods of estimating genetic parameters for performance and disease traits in various species. 
 
 -----
 
@@ -94,11 +109,19 @@ Graduate Student, 2021 -
 I am an Animal Scientist that is passionate about the concept of “One Health”. I hope to contribute to the optimization of livestock health through the implementation of bioinformatics and a comprehensive understanding of genetics. I am interested in Antimicrobial Resistance (AMR) Genes and the implications they have on the collective health of both people and animals. 
 
 -----
+#### Haylee Emard
+Undergraduate Student, 2022 - 
+
+<img src="files/HayleeEmard.jpg" style="border-radius: 20pt; width: 20%; max-width: 200px; min-width: 120px; display: block; margin-right: 20px;" >
+
+I am an Undergraduate Animal Science major in my fourth year at Michigan State. I am developing an interest in genetic improvement in the animal industry. This is my first experience in research, and I’m excited to see what this time will bring!
+
 
 ## Alumni
 
 | Name <img width=60/> | Role | Tenure <img width=50/> | Present |
 |----|----|----|----|
+| Suxu Tan | Postdoctoral Scholar | 2019-2021 | |
 | Jinding Liu | Visiting Scholar | 2019-2021 | Associate Professor, Nanjing Agricultural University, China |
 | Jianping Quan | Visiting Student | 2019-2020 | |
 | Danyue Kang | Undergraduate Student | 2018-2020 | VetMed Student, Ohio State University |
