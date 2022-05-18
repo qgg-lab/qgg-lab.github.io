@@ -9,7 +9,7 @@ active: join
 
 #### Currently Available Positions
 
-<i class="fa fa-check-circle" aria-hidden="true" style="color:green"></i> Postdocs: multiple, see [ad]({{ site.baseurl }}/news/2021/09/01/postdoc.html), get in touch
+<i class="fa fa-check-circle" aria-hidden="true" style="color:green"></i> Postdocs: likely, get in touch
 
 <i class="fa fa-check-circle" aria-hidden="true"  style="color:green"></i> Graduate Students: possible, get in touch
 
