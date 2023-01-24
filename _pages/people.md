@@ -93,6 +93,16 @@ Graduate Student, 2021 -
 I am an Animal Scientist that is passionate about the concept of “One Health”. I hope to contribute to the optimization of livestock health through the implementation of bioinformatics and a comprehensive understanding of genetics. I am interested in Antimicrobial Resistance (AMR) Genes and the implications they have on the collective health of both people and animals. 
 
 -----
+#### Samuel Snowden
+Undergraduate Student, 2022 - 
+
+<img src="files/snowden.jpg" style="border-radius: 20pt; width: 20%; max-width: 200px; min-width: 120px; display: block; margin-right: 20px;" >
+
+|<small> B.S. (genomics and molecular genetics) </small> | <small>expected 2026</small> | <small>Michigan State University</small>
+
+I am interested in genomics, bioinformatics, and computational approaches to large-scale datasets. 
+
+-----
 
 ## Alumni
 
