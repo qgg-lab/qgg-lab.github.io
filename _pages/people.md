@@ -88,6 +88,7 @@ Graduate Student, 2021 -
 
 <img src="files/LeeAckerson.jpg" style="border-radius: 20pt; width: 20%; max-width: 200px; min-width: 120px; display: block; margin-right: 20px;" >
 
+|<small> M.S. (animal science) </small> | <small>2023</small> | <small>Michigan State University</small>
 |<small> B.S. (animal science) </small> | <small>2021</small> | <small>Michigan State University</small>
 
 I am an Animal Scientist that is passionate about the concept of “One Health”. I hope to contribute to the optimization of livestock health through the implementation of bioinformatics and a comprehensive understanding of genetics. I am interested in Antimicrobial Resistance (AMR) Genes and the implications they have on the collective health of both people and animals. 
