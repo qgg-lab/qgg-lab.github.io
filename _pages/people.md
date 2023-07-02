@@ -8,7 +8,8 @@ active: people
 ## people
 #### Wen Huang (黄温)
 
-Assistant Professor, 2017 - 
+Associate Professor, 2023 - <br>
+Assistant Professor, 2017 - 2023
 
 <img src="files/WenHuang2019.jpg" style="border-radius: 20pt; width: 20%; max-width: 200px; min-width: 120px; display: block; margin-right: 20px;" >
 
