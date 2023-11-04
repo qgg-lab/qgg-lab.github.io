@@ -118,7 +118,7 @@ I am interested in genomics, bioinformatics, and computational approaches to lar
 | Danyue Kang | Undergraduate Student | 2018-2020 | VetMed Student, Ohio State University |
 | Eric Chen | Okemos High School Student | 2018-2019 | |
 | Tim Cook | Undergraduate Student | 2019-2019 | |
-| Rongrong Ding | Visiting Student | 2018-2019 | Postdoc, South China Agricultural University, China |
+| Rongrong Ding | Visiting Student | 2018-2019 | Lecturer, Northwest A&F University, China |
 | Michelle Ratchford | Undergraduate Student | 2018-2018 | |
 | Zhijun Dai | Postdoctoral Scholar | 2017-2018 | Lecturer, Hunan Agricultural University, China |
 | Jie Yang | Visiting Scholar | 2017-2018 | Associate Professor, South China Agricultural University, China |
