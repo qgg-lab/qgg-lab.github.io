@@ -36,6 +36,7 @@ We are a lab of quantitative genetics and genomics, primarily in the model organ
 
 ### recent papers | <a href="{{ site.baseurl }}/publications.html">all papers</a>
 
+- <a href="https://www.nature.com/articles/s41467-024-49923-5" targe="_blank">Multi-omic characterization of allele-specific regulatory variation in hybrid pigs.</a> <i>Nat Commun</i>, 2024
 - <a href="https://www.nature.com/articles/s42003-023-04933-9" target="_blank">The SWine IMputation (SWIM) haplotype reference panel enables nucleotide resolution genetic mapping in pigs.</a> <i>Commun Biol</i>, 2023
 - <a href="https://doi.org/10.1098/rspb.2023.0375" target="_blank">Natural genetic variation in a dopamine receptor is associated with variation in female fertility in <i>Drosophila melanogaster</i>.</a> <i>Proc R Soc B</i>, 2023
 - <a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-023-09314-4" target="_blank">Mapping splice QTLs reveals distinct transcriptional and post-transcriptional regulatory variation of gene expression and identifies putative alternative splicing variation mediating complex trait variation in pigs.</a> <i>BMC Genomics</i>, 2023

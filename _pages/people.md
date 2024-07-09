@@ -95,14 +95,14 @@ Graduate Student, 2021 -
 I am an Animal Scientist that is passionate about the concept of “One Health”. I hope to contribute to the optimization of livestock health through the implementation of bioinformatics and a comprehensive understanding of genetics. I am interested in Antimicrobial Resistance (AMR) Genes and the implications they have on the collective health of both people and animals. 
 
 -----
-#### Samuel Snowden
-Undergraduate Student, 2022 - 
+#### Julie Salerno
+Undergraduate Student, 2024 - 
 
-<img src="files/snowden.jpg" style="border-radius: 20pt; width: 20%; max-width: 200px; min-width: 120px; display: block; margin-right: 20px;" >
+<img src="files/salerno.jpg" style="border-radius: 20pt; width: 20%; max-width: 200px; min-width: 120px; display: block; margin-right: 20px;" >
 
-|<small> B.S. (genomics and molecular genetics) </small> | <small>expected 2026</small> | <small>Michigan State University</small>
+|<small> B.S./M.S. (microbiology, genetics, & immunology) </small> | <small>expected 2026/27</small> | <small>Michigan State University</small>
 
-I am interested in genomics, bioinformatics, and computational approaches to large-scale datasets. 
+I am an undergraduate in the BS/MS program in the MGI department. I am very interested in all things genomics, and bioinformatics.
 
 -----
 
@@ -110,6 +110,8 @@ I am interested in genomics, bioinformatics, and computational approaches to lar
 
 | Name <img width=60/> | Role | Tenure <img width=50/> | Present |
 |----|----|----|----|
+| Yuchen Du | Undergraduate Student | 2024-2024 | Student, University of Texas at Austin |
+| Samuel Snowden | Undergraduate Student | 2022-2023 | |
 | Haylee Emard | Undergraduate Student | 2022-2022 | |
 | Rodrigo Savegnago | Postdoctoral Scholar | 2021-2022| Research Scientist, Genus/PIC |
 | Suxu Tan | Postdoctoral Scholar | 2019-2021 | Lecturer, Qingdao University, China|
