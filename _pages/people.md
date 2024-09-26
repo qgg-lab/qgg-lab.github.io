@@ -123,4 +123,4 @@ I am an undergraduate in the BS/MS program in the MGI department. I am very inte
 | Rongrong Ding | Visiting Student | 2018-2019 | Lecturer, Northwest A&F University, China |
 | Michelle Ratchford | Undergraduate Student | 2018-2018 | |
 | Zhijun Dai | Postdoctoral Scholar | 2017-2018 | Lecturer, Hunan Agricultural University, China |
-| Jie Yang | Visiting Scholar | 2017-2018 | Associate Professor, South China Agricultural University, China |
+| Jie Yang | Visiting Scholar | 2017-2018 | Professor, South China Agricultural University, China |
