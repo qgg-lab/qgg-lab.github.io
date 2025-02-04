@@ -8,7 +8,7 @@ permalink: /index.html
 ## <center>Wen Huang Laboratory</center>  
 ### <center>Quantitative Genetics and Genomics</center>
 
-<center><a href="http://www.ans.msu.edu" target="_blank">Department of Animal Science</a></center>
+<center><a href="https://www.canr.msu.edu/ans/" target="_blank">Department of Animal Science</a></center>
 <center><a href="https://msu.edu" target="_blank">Michigan State University</a></center>
 
 -----
@@ -56,13 +56,12 @@ We are a lab of quantitative genetics and genomics, primarily in the model organ
 Michigan State University  
 East Lansing, Michigan 48824
 
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-145611606-1"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-21MFXXZDFR"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-145611606-1');
+  gtag('config', 'G-21MFXXZDFR');
 </script>
