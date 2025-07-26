@@ -81,7 +81,7 @@ I am a Ph.D. student with a background in genetics and bioinformatics. My resear
 
 | Name <img width=60/> | Role | Tenure <img width=50/> | Present |
 |----|----|----|----|
-| Mohammed Bedhane | Postdoctoral Scholar | 2022 - 2025 | Postdoc, Kansas State University | 
+| Mohammed Bedhane | Postdoctoral Scholar | 2022-2025 | Postdoc, Kansas State University | 
 | Julie Salerno | Undergraduate Student | 2024-2025 | Student, Michigan State University |
 | Fei Zhang | Gradaute Student, Ph.D. (2024) | 2019-2024 | Postdoc, Texas A&M University | 
 | Yuchen Du | Undergraduate Student | 2024-2024 | Student, University of Texas at Austin |
