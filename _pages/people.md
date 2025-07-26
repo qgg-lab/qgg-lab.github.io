@@ -70,7 +70,7 @@ Graduate Student, 2025 -
 
 <img src="files/huangyuefan.jpg" style="border-radius: 20pt; width: 20%; max-width: 200px; min-width: 120px; display: block; margin-right: 20px;" >
 
-|<small> M.S. (agronomy and seed Industry) </small> | <small>2023</small> | <small>Huazhong Agricultural University</small> |
+|<small> M.S. (agronomy and seed industry) </small> | <small>2023</small> | <small>Huazhong Agricultural University</small> |
 |<small> B.S. (plant science and technology) </small> | <small>2020</small> | <small>Huazhong Agricultural University</small> |
  
 I am a Ph.D. student with a background in genetics and bioinformatics. My research focuses on the identification of loss-of-function mutations and their roles in complex traits.
