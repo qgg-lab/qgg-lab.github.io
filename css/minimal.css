@@ -28,6 +28,10 @@ a:hover {
   color:#18453b;
 }
 
+b {
+  font-weight: bold;
+}
+
 ul.logo {
   position: fixed;
   width: 200px;
