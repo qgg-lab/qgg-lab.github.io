@@ -36,7 +36,7 @@ We are a lab of quantitative genetics and genomics, primarily in the model organ
 
 ### recent papers | <a href="{{ site.baseurl }}/publications.html">all papers</a>
 
-- <a href="https://www.sciencedirect.com/science/article/pii/S2211124725007703?via%3Dihub" target="_blank">Effects of aging on gene expression networks in the Drosophila genetic reference panel.</a><i>Cell Rep</i>, 2025
+- <a href="https://www.sciencedirect.com/science/article/pii/S2211124725007703?via%3Dihub" target="_blank">Effects of aging on gene expression networks in the Drosophila genetic reference panel.</a> <i>Cell Rep</i>, 2025
 - <a href="https://www.nature.com/articles/s41467-024-49923-5" target="_blank">Multi-omic characterization of allele-specific regulatory variation in hybrid pigs.</a> <i>Nat Commun</i>, 2024
 
 ### web servers
