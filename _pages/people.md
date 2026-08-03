@@ -51,6 +51,8 @@ Postdoctoral Scholar, 2022 -
 
 I am an entomologist, focusing on a variety of insect pests from the fruit flies to the red flour beetles. My current research project is conducting molecular biology, fly genetics, and biometrics to get some clues on fundamental aspects of the central dogma. 
 
+-----
+
 #### Julia Brose
 Postdoctoral Scholar, 2026 -
 
