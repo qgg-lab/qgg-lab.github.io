@@ -6,7 +6,7 @@ active: people
 ---
 
 ## people
-#### Wen Huang (黄温)
+#### Wen Huang - 黄温
 
 Associate Professor, 2023 - <br>
 Assistant Professor, 2017 - 2023
@@ -39,7 +39,7 @@ I have been a lab manager at MSU since 1997. In addition to the Huang Lab, I am 
 
 -----
 
-#### Kangxu Wang (王康旭)
+#### Kangxu Wang - 王康旭
 Postdoctoral Scholar, 2022 -
 
 <img src="files/KangxuWang.jpg" style="border-radius: 20pt; width: 20%; max-width: 200px; min-width: 120px; display: block; margin-right: 20px;" >
@@ -50,6 +50,19 @@ Postdoctoral Scholar, 2022 -
 |<small>B.S. (plant protection)</small> | <small>2013</small> | <small>Nanjing Agricultural University</small> |
 
 I am an entomologist, focusing on a variety of insect pests from the fruit flies to the red flour beetles. My current research project is conducting molecular biology, fly genetics, and biometrics to get some clues on fundamental aspects of the central dogma. 
+
+#### Julia Brose
+Postdoctoral Scholar, 2026 -
+
+<img src="files/JuliaBrose2024.jpeg" style="border-radius: 20pt; width: 20%; max-width: 200px; min-width: 120px; display: block; margin-right: 20px;" >
+
+| | | |
+|-|-|-|
+|<small>Ph.D. (plant biology)</small> | <small>2024</small> | <small>Michigan State University</small> |
+|<small>M.S. (biological and biomolecular science)</small> | <small>2019</small> | <small>University College Dublin (Fulbright Scholar)</small> |
+|<small>B.S. (biochemistry), <i>summa cum laude</i> </small> | <small>2018</small> | <small>University of Missouri</small> |
+
+I am postdoctoral researcher with a background in plant genomics, genome assembly, and comparative genomics. I am now applying my computational skills to cattle immunogenetics, with a focus on developing SNP-based frameworks for bovine leukocyte antigen (BoLA) allele imputation.
 
 -----
 
@@ -65,7 +78,7 @@ I am an Animal Scientist that is passionate about the concept of “One Health�
 
 -----
 
-#### Yuefan Huang (黄越凡)
+#### Yuefan Huang - 黄越凡
 Graduate Student, 2025 - 
 
 <img src="files/huangyuefan.jpg" style="border-radius: 20pt; width: 20%; max-width: 200px; min-width: 120px; display: block; margin-right: 20px;" >
@@ -89,10 +102,10 @@ I am a Ph.D. student with a background in genetics and bioinformatics. My resear
 | Haylee Emard | Undergraduate Student | 2022-2022 | |
 | Rodrigo Savegnago | Postdoctoral Scholar | 2021-2022| Research Scientist, Genus/PIC |
 | Suxu Tan | Postdoctoral Scholar | 2019-2021 | Lecturer, Qingdao University, China|
-| Jinding Liu | Visiting Scholar | 2019-2021 | Associate Professor, Nanjing Agricultural University, China |
+| Jinding Liu | Visiting Scholar | 2019-2021 | Professor, Nanjing Agricultural University, China |
 | Jianping Quan | Visiting Student | 2019-2020 | Associate Professor, South China Agricultural University, China |
 | Danyue Kang | Undergraduate Student | 2018-2020 | Resident, University of Kentucky Veterinary Diagnostic Laboratory |
-| Eric Chen | Okemos High School Student | 2018-2019 | |
+| Eric Chen | Okemos High School Student | 2018-2019 | Medical Student, Michigan State University |
 | Tim Cook | Undergraduate Student | 2019-2019 | |
 | Rongrong Ding | Visiting Student | 2018-2019 | Lecturer, Northwest A&F University, China |
 | Michelle Ratchford | Undergraduate Student | 2018-2018 | |

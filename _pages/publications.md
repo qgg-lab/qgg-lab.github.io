@@ -10,6 +10,7 @@ active: publications
 | --   | --:  | --   |
 | ---- | ---- | ---- |
 |      |      |      |
+| <b>2026</b> | 78. | Liu J, Ye X, Cheng J, Fang L, <b>Huang W</b>, Zhu Y, Wang X, Dou D (2026) SSBP: A meta-GWAS-based pleiotropy-aware QTL atlas and smart breeding platform for soybean. <a href="https://pubmed.ncbi.nlm.nih.gov/41964218/" target="_blank"><i>Mol Plant</i> 19(6):1125-1128</a> |
 | <b>2025</b> | 77. | Johnson-Schlitz D, Seidl A, Olufs Z, <b>Huang W</b>, Wassarman D, Perouansky M (2025) Genetic differences modify anesthetic preconditioning of traumatic brain Injury in Drosophila. <a href="https://pubmed.ncbi.nlm.nih.gov/39558897/" target="_blank"><i>J Neurotrauma</i> 42(17-18):1641-1653</a> |
 | | 76. | <b>Tan S</b>, Carbone MA, Zhou S, Morozova T, Arya G, <b>Zhang F</b>, Anholt RRH, <b>Huang W</b>, Mackay TFC (2025) Effects of aging on gene expression networks in the Drosophila genetic reference panel. <a href="https://pubmed.ncbi.nlm.nih.gov/40650906/" target="_blank"><i>Cell Rep</i> 44(7):115999</a> |
 | | 75. | Jiang X, Putz A, <b>Huang W</b>, Steibel JP (2025) Technical Note: Anomaly detection for breed purity analysis in pigs using a single breed genotype panel. <a href="https://pubmed.ncbi.nlm.nih.gov/40111087/" target="_blank"><i>J Anim Sci</i> 103:skaf083</a> | 
